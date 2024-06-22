@@ -1,4 +1,3 @@
-```markdown
 # Multi-layered Physical Access Control and Intrusion Detection System
 
 ## Abstract
@@ -89,4 +88,3 @@ The four fundamental needs are as follows:
 - PIR Sensor
 - LCD
 - Switch
-```
