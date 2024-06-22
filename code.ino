@@ -184,7 +184,7 @@ void SendMessage()
 {
   gsmSerial.println("AT+CMGF=1");    //Sets the GSM Module in Text Mode
   delay(1000);  // Delay of 1000 milli seconds or 1 second
-  gsmSerial.println("AT+CMGS=\"+916393235652\"\r"); // Replace x with mobile number
+  gsmSerial.println("AT+CMGS=\"+91249564442\"\r"); // Replace x with mobile number
   delay(1000);
   gsmSerial.println("unauthorized person enter in your house");// The SMS text you want to send
   delay(1000);
