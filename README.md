@@ -3,9 +3,9 @@
 ## Model
 Here are images of the actual model that was created:
 
-![Model Image 1](Model/M1.png)
-![Model Image 2](Model/M2.png)
-![Model Image 3](Model/M1.png)
+![Model Image 1](Diagrams/6.png)
+![Model Image 2](Diagrams/7.png)
+![Model Image 3](Diagrams/8.png)
 
 ## Abstract
 This research studies the implementation of a multi-layered physical access control and intrusion detection system using RFID, GSM module, and PIR sensor technologies in a time when physical security is prioritized. By combining these modern elements, security is strengthened by many layers of defense. PIR sensors provide for quick intruder detection, GSM enables remote communication for real-time monitoring, and RFID assures safe entry. From planning to execution, the paper provides a thorough guide that delivers insightful information to organizations looking for a modern, efficient way to protect people, property, and data. This novel technique addresses the dynamic problems of the modern security landscape by improving security measures and enabling remote notifications.
@@ -99,16 +99,16 @@ The four fundamental needs are as follows:
 ## Design Diagram
 
 ### Servo Motor connection With Arduino Uno
-![Servo Motor connection](Circuit Diagrams/Servo motor with Arduino.png)
+![Servo Motor connection](Diagrams/3.png)
 
 ### RFID connection With Arduino Uno
-![RFID connection](Circuit Diagrams/RFID with Arduino.png)
+![RFID connection](Diagrams/2.png)
 
 ### LCD connection With Arduino Uno
-![LCD connection](Circuit Diagrams/LCD with Arduino.png)
+![LCD connection](Diagrams/5.png)
 
 ### PIR Sensor connection With Arduino Uno
-![PIR Sensor connection](Circuit Diagrams/PIR Sensor with Arduino.png)
+![PIR Sensor connection](Diagrams/4.png)
 
 ### Switch Connection with Arduino Uno
-![Switch connection](Circuit Diagrams/Switch with Arduino.png)
+![Switch connection](Diagrams/1.png)
